@@ -31,5 +31,5 @@ for item in following["users"]:
 for item2 in followers["users"]:
     followers_list.append(item2["username"])
 
-print (len(set(followers_list) - set(following_list))) #Personnes abonnées à moi mais moi non
-print (len(set(following_list) - set(followers_list))) #Personnes à qui je suis abonné
+#print ((set(followers_list) - set(following_list))) #Personnes abonnées à moi mais moi non
+print ((set(following_list) - set(followers_list))) #Personnes à qui je suis abonné
