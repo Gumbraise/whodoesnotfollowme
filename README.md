@@ -11,8 +11,8 @@ Into the Command Prompt execute command ```python pip install InstagramAPI``` ``
 Follow these steps:
 
 1. Open ``1212.py``
-2.1. Enter your IG Username then press ``Enter``
-2.2. Enter your IG Password then press ``Enter``
+2. Enter your IG Username then press ``Enter``
+3. Enter your IG Password then press ``Enter``
 
 ## Donate
 
